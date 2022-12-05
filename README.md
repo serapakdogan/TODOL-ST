@@ -1,2 +1,2 @@
-# TODOL-ST
+# TODOLiST
 Front-end Eğitimi Javascript Ödevi
